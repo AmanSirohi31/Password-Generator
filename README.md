@@ -3,7 +3,7 @@
 ## Overview
 This is a Password Generator web application built using HTML, CSS, and JavaScript. The application allows users to generate secure passwords based on their preferences, such as including uppercase letters, lowercase letters, numbers, and symbols. Users can also adjust the password length according to their needs.
 
-## Functions
+## Features
 * <b>Generate Password:</b> Creates a random password based on the selected options.
 * <b>Include Character Types:</b> Allows users to choose whether to include uppercase letters, lowercase letters, numbers and symbols.
 * <b>Adjust Password Length:</b> Users can set the desired length of the password using the slider.
